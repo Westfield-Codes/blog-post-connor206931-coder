@@ -18,3 +18,8 @@ th::after {
 td {
     padding-left:5px;
 }
+
+img.rounded-circle{
+  width:50px;
+  hieght:50px;
+}
